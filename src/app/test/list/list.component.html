@@ -1,3 +1,14 @@
-<p>
- WOOOOOOOO !!!!!
-</p>
+<app-map (mapClick)="onMapClick($event)"></app-map>
+
+<form *ngIf="todo">
+
+  <p>{{todo.coords.lat}}, {{todo.coords.lng}}</p>
+
+  <input name="name" [(ngModel)]="todo.name" /><Br>
+
+  <button (click)="save()">Save</button>
+</form>
+
+<ol>
+  <li *ngFor="let item of todos">{{item.coords.lat}}, {{item.coords.lng}} <br> <b>{{item.name}}</b></li>
+</ol>
