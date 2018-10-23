@@ -13,6 +13,7 @@ songs.map(song => {
     artistsMap[song.artist] = {
       id: artist_id,
       name: song.artist,
+      img: song.img_url.replace('http://fireflygrove.com/songnotes/images/artists/', ''),
       location: {
         lat: ran(-80, 80),
         lng: ran(-80, 80)
@@ -29,7 +30,7 @@ songs = songs.map(v => {
     year: v.year,
     artistId: artistsMap[v.artist].id,
     webUrl: v.web_url,
-    imgUrl: v.img_url.replace('http://fireflygrove.com/songnotes/images/artists/', 'http://www.songnotes.cc/images/artists/')
+
   };
 })
 
