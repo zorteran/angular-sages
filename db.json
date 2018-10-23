@@ -10,6 +10,10 @@
     {
       "id": 1,
       "name": "Ulubione"
+    },
+    {
+      "id": 2,
+      "name": "Do programowania"
     }
   ],
   "playlistSongs": [
@@ -22,280 +26,562 @@
       "id": 2,
       "songId": 30,
       "playlistId": 1
+    },
+    {
+      "id": 2,
+      "songId": 60,
+      "playlistId": 2
+    },
+    {
+      "id": 2,
+      "songId": 80,
+      "playlistId": 2
     }
   ],
   "artists": [
     {
       "id": 1,
-      "name": "The Tallest Man on Earth"
+      "name": "The Tallest Man on Earth",
+      "location": {
+        "lat": -27.823888045647323,
+        "lng": -8.071802624121432
+      }
     },
     {
       "id": 2,
-      "name": "Dave Matthews"
+      "name": "Dave Matthews",
+      "location": {
+        "lat": 10.362919617782396,
+        "lng": -24.5543998314524
+      }
     },
     {
       "id": 3,
-      "name": "Sublime"
+      "name": "Sublime",
+      "location": {
+        "lat": 62.783483603442534,
+        "lng": 43.77372297586223
+      }
     },
     {
       "id": 4,
-      "name": "Tom Petty"
+      "name": "Tom Petty",
+      "location": {
+        "lat": -9.953586066062059,
+        "lng": -2.2658380277443513
+      }
     },
     {
       "id": 5,
-      "name": "Violent Femmes"
+      "name": "Violent Femmes",
+      "location": {
+        "lat": -58.44581688017616,
+        "lng": 39.762499120577075
+      }
     },
     {
       "id": 6,
-      "name": "Don McLean"
+      "name": "Don McLean",
+      "location": {
+        "lat": -70.41037483170581,
+        "lng": 34.80135575823674
+      }
     },
     {
       "id": 7,
-      "name": "Van Morrison"
+      "name": "Van Morrison",
+      "location": {
+        "lat": -59.79235710627684,
+        "lng": -36.05175155298042
+      }
     },
     {
       "id": 8,
-      "name": "Jimmy Buffett"
+      "name": "Jimmy Buffett",
+      "location": {
+        "lat": -17.215723839966124,
+        "lng": 30.501202643275064
+      }
     },
     {
       "id": 9,
-      "name": "Jack Johnson"
+      "name": "Jack Johnson",
+      "location": {
+        "lat": -68.59521342864593,
+        "lng": 17.60673132083987
+      }
     },
     {
       "id": 10,
-      "name": "The Lumineers"
+      "name": "The Lumineers",
+      "location": {
+        "lat": 23.882028878756074,
+        "lng": -5.920417039881798
+      }
     },
     {
       "id": 11,
-      "name": "Conor Oberst"
+      "name": "Conor Oberst",
+      "location": {
+        "lat": -69.55028988192484,
+        "lng": -39.36603091952776
+      }
     },
     {
       "id": 12,
-      "name": "fun."
+      "name": "fun.",
+      "location": {
+        "lat": -27.328884355050533,
+        "lng": 39.75200058778515
+      }
     },
     {
       "id": 13,
-      "name": "Donovan"
+      "name": "Donovan",
+      "location": {
+        "lat": -24.676206957944586,
+        "lng": -31.811050106891585
+      }
     },
     {
       "id": 14,
-      "name": "Harry Chapin"
+      "name": "Harry Chapin",
+      "location": {
+        "lat": 70.05397831266347,
+        "lng": -1.6533054750166798
+      }
     },
     {
       "id": 15,
-      "name": "Radiohead"
+      "name": "Radiohead",
+      "location": {
+        "lat": -43.00462089894584,
+        "lng": 56.46679679908689
+      }
     },
     {
       "id": 16,
-      "name": "Johnny Cash"
+      "name": "Johnny Cash",
+      "location": {
+        "lat": 12.924824915962489,
+        "lng": 69.43487875344488
+      }
     },
     {
       "id": 17,
-      "name": "Mason Jennings"
+      "name": "Mason Jennings",
+      "location": {
+        "lat": -79.74425357894411,
+        "lng": -42.23669443339169
+      }
     },
     {
       "id": 18,
-      "name": "Regina Spektor"
+      "name": "Regina Spektor",
+      "location": {
+        "lat": 44.66271301756343,
+        "lng": -0.0436599350198037
+      }
     },
     {
       "id": 19,
-      "name": "Oasis"
+      "name": "Oasis",
+      "location": {
+        "lat": -43.340331022145406,
+        "lng": 6.521924616328533
+      }
     },
     {
       "id": 20,
-      "name": "Journey"
+      "name": "Journey",
+      "location": {
+        "lat": 60.53278754733188,
+        "lng": 32.065799097146595
+      }
     },
     {
       "id": 21,
-      "name": "Elvis Perkins"
+      "name": "Elvis Perkins",
+      "location": {
+        "lat": -39.748877299751726,
+        "lng": 68.47822371759722
+      }
     },
     {
       "id": 22,
-      "name": "First Aid Kit"
+      "name": "First Aid Kit",
+      "location": {
+        "lat": 12.980765779965424,
+        "lng": 26.66299818794336
+      }
     },
     {
       "id": 23,
-      "name": "Cat Stevens"
+      "name": "Cat Stevens",
+      "location": {
+        "lat": 66.87352345835444,
+        "lng": -70.90923213006569
+      }
     },
     {
       "id": 24,
-      "name": "Blitzen Trapper"
+      "name": "Blitzen Trapper",
+      "location": {
+        "lat": -50.24979415246342,
+        "lng": 33.6796820624686
+      }
     },
     {
       "id": 25,
-      "name": "Emmylou Harris"
+      "name": "Emmylou Harris",
+      "location": {
+        "lat": 50.26435935834428,
+        "lng": -64.82896797012276
+      }
     },
     {
       "id": 26,
-      "name": "Arcade Fire"
+      "name": "Arcade Fire",
+      "location": {
+        "lat": 35.08269418601451,
+        "lng": -62.19735121792681
+      }
     },
     {
       "id": 27,
-      "name": "Neil Young"
+      "name": "Neil Young",
+      "location": {
+        "lat": 30.06988963417487,
+        "lng": 62.40072879658027
+      }
     },
     {
       "id": 28,
-      "name": "Whitesnake"
+      "name": "Whitesnake",
+      "location": {
+        "lat": -50.04405943994559,
+        "lng": 59.25023216972559
+      }
     },
     {
       "id": 29,
-      "name": "Gin Blossoms"
+      "name": "Gin Blossoms",
+      "location": {
+        "lat": -31.900412578381427,
+        "lng": 20.244221130945164
+      }
     },
     {
       "id": 30,
-      "name": "Train"
+      "name": "Train",
+      "location": {
+        "lat": 49.389291554431935,
+        "lng": -71.14095441344415
+      }
     },
     {
       "id": 31,
-      "name": "Father John Misty"
+      "name": "Father John Misty",
+      "location": {
+        "lat": 8.091541533021058,
+        "lng": -23.39002107520809
+      }
     },
     {
       "id": 32,
-      "name": "Edward Sharpe & The Magnetic Zeros"
+      "name": "Edward Sharpe & The Magnetic Zeros",
+      "location": {
+        "lat": 19.00443450142653,
+        "lng": -37.75485118307458
+      }
     },
     {
       "id": 33,
-      "name": "The Eagles"
+      "name": "The Eagles",
+      "location": {
+        "lat": 26.16746929569726,
+        "lng": 14.94368016524703
+      }
     },
     {
       "id": 34,
-      "name": "The White Stripes"
+      "name": "The White Stripes",
+      "location": {
+        "lat": -35.16444515524881,
+        "lng": -74.30123171206091
+      }
     },
     {
       "id": 35,
-      "name": "OAR"
+      "name": "OAR",
+      "location": {
+        "lat": 37.81419759270001,
+        "lng": 11.237214516721465
+      }
     },
     {
       "id": 36,
-      "name": "Taylor Swift"
+      "name": "Taylor Swift",
+      "location": {
+        "lat": 40.68038829611555,
+        "lng": -72.16177719400498
+      }
     },
     {
       "id": 37,
-      "name": "Weezer"
+      "name": "Weezer",
+      "location": {
+        "lat": -40.30378479405016,
+        "lng": -58.92274730741079
+      }
     },
     {
       "id": 38,
-      "name": "Jason Mraz"
+      "name": "Jason Mraz",
+      "location": {
+        "lat": 58.98265861893191,
+        "lng": -63.29632995212499
+      }
     },
     {
       "id": 39,
-      "name": "John Mellencamp"
+      "name": "John Mellencamp",
+      "location": {
+        "lat": -14.26978879877322,
+        "lng": 75.63059246391822
+      }
     },
     {
       "id": 40,
-      "name": "Bill Withers"
+      "name": "Bill Withers",
+      "location": {
+        "lat": 12.6527958550152,
+        "lng": 46.76520397229396
+      }
     },
     {
       "id": 41,
-      "name": "Of Monsters and Men"
+      "name": "Of Monsters and Men",
+      "location": {
+        "lat": -2.0553771386422426,
+        "lng": -78.42774034926741
+      }
     },
     {
       "id": 42,
-      "name": "The Avett Brothers"
+      "name": "The Avett Brothers",
+      "location": {
+        "lat": -12.504556406857404,
+        "lng": -34.05081996068869
+      }
     },
     {
       "id": 43,
-      "name": "The Kinks"
+      "name": "The Kinks",
+      "location": {
+        "lat": 34.810862208714326,
+        "lng": -62.4643868665709
+      }
     },
     {
       "id": 44,
-      "name": "Ricky Nelson"
+      "name": "Ricky Nelson",
+      "location": {
+        "lat": -30.925900728774067,
+        "lng": 58.49219142894941
+      }
     },
     {
       "id": 45,
-      "name": "Paul Simon"
+      "name": "Paul Simon",
+      "location": {
+        "lat": 76.27739764567323,
+        "lng": 65.92691994061886
+      }
     },
     {
       "id": 46,
-      "name": "Metallica"
+      "name": "Metallica",
+      "location": {
+        "lat": 75.44239091074064,
+        "lng": -32.93592945470898
+      }
     },
     {
       "id": 47,
-      "name": "Miley Cyrus"
+      "name": "Miley Cyrus",
+      "location": {
+        "lat": -78.14367399215662,
+        "lng": -38.93605152034301
+      }
     },
     {
       "id": 48,
-      "name": "Guns N' Roses"
+      "name": "Guns N' Roses",
+      "location": {
+        "lat": 7.215198528761107,
+        "lng": -13.848707615669184
+      }
     },
     {
       "id": 49,
-      "name": "Bob Marley"
+      "name": "Bob Marley",
+      "location": {
+        "lat": 37.83133423168135,
+        "lng": -67.3904658302283
+      }
     },
     {
       "id": 50,
-      "name": "Elton John"
+      "name": "Elton John",
+      "location": {
+        "lat": -31.572668025259603,
+        "lng": 68.08114380290408
+      }
     },
     {
       "id": 51,
-      "name": "She & Him"
+      "name": "She & Him",
+      "location": {
+        "lat": 14.299526776203564,
+        "lng": 74.779404436411
+      }
     },
     {
       "id": 52,
-      "name": "Bob Dylan"
+      "name": "Bob Dylan",
+      "location": {
+        "lat": -41.26296753764496,
+        "lng": -71.7782457224186
+      }
     },
     {
       "id": 53,
-      "name": "Keane"
+      "name": "Keane",
+      "location": {
+        "lat": -15.954334088732054,
+        "lng": 32.901904570734004
+      }
     },
     {
       "id": 54,
-      "name": "David Bowie"
+      "name": "David Bowie",
+      "location": {
+        "lat": -38.12267418042467,
+        "lng": 41.20519049261216
+      }
     },
     {
       "id": 55,
-      "name": "Stealers Wheel"
+      "name": "Stealers Wheel",
+      "location": {
+        "lat": -34.30807550601191,
+        "lng": -16.4266797769843
+      }
     },
     {
       "id": 56,
-      "name": "Bryan Adams"
+      "name": "Bryan Adams",
+      "location": {
+        "lat": -37.010843811642395,
+        "lng": 59.60075424066861
+      }
     },
     {
       "id": 57,
-      "name": "Lynyrd Skynyrd"
+      "name": "Lynyrd Skynyrd",
+      "location": {
+        "lat": -53.812628513894616,
+        "lng": -11.099526392517333
+      }
     },
     {
       "id": 58,
-      "name": "Ben Harper"
+      "name": "Ben Harper",
+      "location": {
+        "lat": -17.534062484863995,
+        "lng": 32.3323203074046
+      }
     },
     {
       "id": 59,
-      "name": "Dispatch"
+      "name": "Dispatch",
+      "location": {
+        "lat": -34.53421328726581,
+        "lng": 29.980770440737814
+      }
     },
     {
       "id": 60,
-      "name": "Chvrches"
+      "name": "Chvrches",
+      "location": {
+        "lat": -54.12505642574516,
+        "lng": 40.654560091325436
+      }
     },
     {
       "id": 61,
-      "name": "The Band"
+      "name": "The Band",
+      "location": {
+        "lat": -29.21480570454392,
+        "lng": 29.081423384261996
+      }
     },
     {
       "id": 62,
-      "name": "The Church"
+      "name": "The Church",
+      "location": {
+        "lat": 44.82821635173448,
+        "lng": -72.37441903397053
+      }
     },
     {
       "id": 63,
-      "name": "Coldplay"
+      "name": "Coldplay",
+      "location": {
+        "lat": -72.5645043746286,
+        "lng": -9.082156501390301
+      }
     },
     {
       "id": 64,
-      "name": "John Lennon"
+      "name": "John Lennon",
+      "location": {
+        "lat": 31.135898398070935,
+        "lng": -48.13976441449
+      }
     },
     {
       "id": 65,
-      "name": "Billy Bragg & Wilco"
+      "name": "Billy Bragg & Wilco",
+      "location": {
+        "lat": 68.41317129462976,
+        "lng": -4.270968024827681
+      }
     },
     {
       "id": 66,
-      "name": "The Beatles"
+      "name": "The Beatles",
+      "location": {
+        "lat": -59.04881610942393,
+        "lng": 16.187969060100926
+      }
     },
     {
       "id": 67,
-      "name": "Vampire Weekend"
+      "name": "Vampire Weekend",
+      "location": {
+        "lat": 67.28667184430412,
+        "lng": -71.41495400070187
+      }
     },
     {
       "id": 68,
-      "name": "DeVotchKa"
+      "name": "DeVotchKa",
+      "location": {
+        "lat": -23.951055309996043,
+        "lng": 34.856351378209496
+      }
     }
   ],
   "songs": [
