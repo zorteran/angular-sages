@@ -12,4 +12,4 @@ import {FormsModule} from '@angular/forms';
   declarations: [ListComponent, MapComponent],
   exports: [ListComponent]
 })
-export class TestModule { }
+export class SharedModule { }
